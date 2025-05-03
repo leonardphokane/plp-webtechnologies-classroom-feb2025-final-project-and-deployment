@@ -1,25 +1,32 @@
 # Final Project and Deployment
 
-## Objectives
-Build a fully functional web application.
-Apply HTML, CSS, and JavaScript concepts learned.
-Deploy the project using GitHub Pages, Netlify, or Vercel.
+This is a simple, responsive website built using HTML, CSS, and JavaScript.
+- Designed with three pages Home, About, Contact.
+- Deployed using GitHub Pages.
 
-## Instructions
-Choose one of the following project ideas:
-Blog Website: Implement a multi-page site with navigation.
-Ecommerce Website: Implement a multi-page site with navigation.
+## 🔗 Live Demo
 
->[!NOTE]
-> - Include at least:
-> - A responsive design.
-> - JavaScript interactivity.
-> - A deployment link.
+🌐 [View live website URL]  [https://leonardphokane.github.io/plp-webtechnologies-classroom-feb2025-final-project-and-deployment/]
 
-## Tasks
+## 📁 Project Structure
 
-Create a well-structured HTML5 document.
-Use at least 5 different HTML elements.
-Ensure semantic correctness.
 
-Good luck and happy coding! 🚀💻
+## ✨ Features
+
+- Clean and simple layout
+- Profile picture
+- Downloadable CV
+- JavaScript interaction
+- Responsive design
+
+## 💼 Author
+
+- 👤 Name: Leonard Phokane  
+- 📧 Email: leonardphokane1@gmail.com  
+- 🔗 GitHub: [https://leonardphokane.github.io/leonardphokane/]
+- 🔗 LinkedIn: https://www.linkedin.com/in/leonard-phokane
+
+## 🙌 Feedback
+
+Feel free to clone this repo and suggest improvements!
+
