@@ -6,7 +6,7 @@ This is a simple, responsive website built using HTML, CSS, and JavaScript.
 
 ## 🔗 Live Demo
 
-🌐 [View live website URL/]  [https://leonardphokane.github.io/plp-webtechnologies-classroom-feb2025-final-project-and-deployment/]
+🌐 [View live website URL]  [https://leonardphokane.github.io/plp-webtechnologies-classroom-feb2025-final-project-and-deployment/]
 
 ## 📁 Project Structure
 
